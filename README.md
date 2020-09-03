@@ -45,7 +45,7 @@ Join us on our [Discord Server](https://discord.gg/CzAbuGu) or [follow us on Twi
 
 Read our [contributor guide](./CONTRIBUTING.md) to learn how you can submit bug reports, feature requests, and pull requests.
 
-Contributors are expected to abide by the project's [Code of Conduct](./CODE_OF_CONDUCT.md) and to be respectful of the project and people working on it. 
+Contributors are expected to abide by the project's [Code of Conduct](./CODE_OF_CONDUCT.md) and to be respectful of the project and people working on it.
 
 ## Additional Resources
 
